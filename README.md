@@ -7,4 +7,4 @@ GPT-2 was created as a "direct scale-up" of GPT-1 with a ten-fold increase in bo
 
 This is a complete file of every source code used in the construction of gpt2 by open ai, along with test models. To purchase and receive the password for this zip file on GitHub, send a message to the BlackStonAI channel or to the email below.
 Price 0.00070 Bitcoin
-(ucicada0@gmail.com)
+(github4819@gmail.com)
